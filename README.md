@@ -1,4 +1,4 @@
-# Reverse Proxy Cutioner
+# Reverse Proxy-Cutioner
 
 A tool to manage and orchestrate reverse proxy configurations using Docker containers.
 
